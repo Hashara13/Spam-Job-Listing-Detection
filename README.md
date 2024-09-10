@@ -13,9 +13,12 @@ The project uses the following key libraries and tools:
 - **scikit-learn**: Machine learning library for building classification models.
 
 ## Getting Started
-Follow the steps below to set up the project on your local machine.
+Data Set.
 
 ![Data Set](./ouput/image.png)
+![Value](./ouput/countryvalue.png)
+![fradulent](./ouput/fraudulent.png)
+![xp](./ouput/xp.png)
 
 
 ### Prerequisites
@@ -29,6 +32,6 @@ Ensure you have Python installed on your machine. You can install the required l
 
 2. Install required libraries
    ```bash
-   pip install -r requirements.txt
+   pip install -r req.txt
 
 
