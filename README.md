@@ -15,6 +15,9 @@ The project uses the following key libraries and tools:
 ## Getting Started
 Follow the steps below to set up the project on your local machine.
 
+![Data Set](./ouput/image.png)
+
+
 ### Prerequisites
 Ensure you have Python installed on your machine. You can install the required libraries by running the following command:
 
