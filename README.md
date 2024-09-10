@@ -13,7 +13,6 @@ The project uses the following key libraries and tools:
 - **scikit-learn**: Machine learning library for building classification models.
 
 ## Getting Started
-Data Set.
 
 ![Data Set](./ouput/image.png)
 ![Value](./ouput/countryvalue.png)
