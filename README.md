@@ -18,6 +18,14 @@ Follow the steps below to set up the project on your local machine.
 ### Prerequisites
 Ensure you have Python installed on your machine. You can install the required libraries by running the following command:
 
-```bash
-pip install -r requirements.txt
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/spam-job-detection.git
+
+2. Install required libraries
+   ```bash
+   pip install -r requirements.txt
+
 
